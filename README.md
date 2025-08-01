@@ -114,7 +114,7 @@ model.val()
 
 - Gunakan GPU untuk performa maksimal
 - Untuk prediksi atau inference, gunakan model `best.pt` dari hasil pelatihan
-- Pastikan format anotasi label sesuai standar YOLOv8 (segmentation polygon format)
+- Pastikan format anotasi label sesuai standar YOLO11 (segmentation polygon format)
 
 ---
 
